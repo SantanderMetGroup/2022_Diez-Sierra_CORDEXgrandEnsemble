@@ -4,42 +4,10 @@
             "orcid": "0000-0001-9053-2542",
             "affiliation": "Santander Meteorology Group, Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
             "name": "Diez-Sierra, Javier"
-        },
-        {   
-            "orcid": "0000-0002-5048-0941",
-            "affiliation": "Santander Meteorology Group, Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
-            "name": "Iturbide, Maialen"
-        },
-        {   
-            "orcid": "0000-0002-2766-6297",
-            "affiliation": "Santander Meteorology Group. Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
-            "name": "Gutiérrez, José Manuel"
-        },
-        {   
-            "orcid": "0000-0002-3483-0008",
-            "affiliation": "Santander Meteorology Group. Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
-            "name": "Fernández, Jesús"
-        },
-        {   
-            "orcid": "0000-0001-5648-5279",
-            "affiliation": "Santander Meteorology Group. Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
-            "name": "Milovac, Josipa"
-        },
-        {   
-            "orcid": "0000-0001-7719-979X",
-            "affiliation": "Santander Meteorology Group. Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
-            "name": "Cofiño, Antonio S."
-        },
-        {   
-            "orcid": "0000-0002-8437-2068",
-            "affiliation": "Santander Meteorology Group. Instituto de Física de Cantabria (CSIC-UC), Santander, Spain",
-            "name": "Cimadevilla, Ezequiel"
         }
    ],    
 
-    "license": "CC-BY-4.0",
-
-    "title": "Assessing the consistency of the worldwide C3S CORDEX grand ensemble in overlapping regions",
+    "title": "Repository supporting the results presented in the manuscript The worldwide C3S CORDEX grand ensemble: A major contribution to assess regional climate change in the IPCC AR6 Atlas",
     
     "description": "<p>Script to assess the consistency of the worldwide C3S CORDEX grand ensemble in overlapping regions. The script reproduces figures 7 and 8 available in the article --The worldwide C3S CORDEX grand ensemble: A major contribution to assess regional climate change in the IPCC AR6 Atlas--. </p>",
 
